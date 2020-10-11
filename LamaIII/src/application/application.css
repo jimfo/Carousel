@@ -1,0 +1,27 @@
+.CarouselBtn{
+		-fx-text-fill: #00FFFF;
+        -fx-background-color: #000000;
+        -fx-border-color: #00FFFF;
+        -fx-border-width: 1px;
+        -fx-font: 14 "Courier New"; 
+}
+
+.MyTextArea{
+		-fx-text-fill: #00FFFF;
+        -fx-background-color: #000000;
+        -fx-border-color: #FF0000;	 
+        -fx-border-width: 1px;       
+		text-area-background: black ;
+}
+
+.MyTextArea .content {
+    -fx-background-color: text-area-background;
+}
+
+.MyLabel{
+		-fx-text-fill: #00FFFF;
+        -fx-background-color: #000000;
+        -fx-border-color: #FF0000;	 
+        -fx-border-width: 1px;       
+		text-area-background: black ;
+}
